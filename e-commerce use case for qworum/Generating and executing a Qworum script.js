@@ -1,4 +1,4 @@
 await Qworum.eval(Script(
-  Return(JsonValue({}))
+  Return(JsonValue(0))
 ));
 
