@@ -1,11 +1,8 @@
-// TypeScript pseudocode for a distributed e-commerce system that spans two web origins.
-
-/**
- *  Placeholder for the Json datatype.
- *  @see {@link https://qworum.net/en/specification/v1/#json}
- */
-type JsonValue = string | number | boolean | Array<JsonValue> | {} | null; 
-
+// /**
+//  *  Placeholder for the Json datatype.
+//  *  @see {@link https://qworum.net/en/specification/v1/#json}
+//  */
+// type JsonValue = string | number | boolean | Array<JsonValue> | {} | null; 
 
 /** 
  * Interface for a shopping cart service.
@@ -30,6 +27,7 @@ interface IShoppingCart {
    * Absolute path within the service's web origin: /add-items/
    * @public
    * @param {JsonValue} lineItemsToAdd - The name of the Qworum call parameter is 'line items to add'.
+   * @returns {JsonValue}
    */
   addItems: (lineItemsToAdd: JsonValue) => JsonValue;
 
@@ -38,10 +36,10 @@ interface IShoppingCart {
    * who can then check out.
    * Absolute path within the service's web origin: /show-cart/
    * @public
+   * @returns {JsonValue}
    */
   showCart: () => JsonValue;
 }
-
 
 /** 
  * Interface for an e-shop service.
@@ -59,6 +57,7 @@ interface IShop {
    * Main interactive endpoint. Never returns.
    * Absolute path within web origin: /home/
    * @public
+   * @returns {JsonValue}
    */
   home: () => JsonValue;
 
@@ -69,6 +68,7 @@ interface IShop {
    * Absolute path within web origin: /view-article/
    * @private
    * @param {JsonValue} articleId - A string. The name of the Qworum call parameter is 'article id'.
+   * @returns {JsonValue}
    */
   viewArticle(articleId: JsonValue): JsonValue;
 }
