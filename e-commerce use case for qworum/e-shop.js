@@ -2,7 +2,7 @@
 
 // Run this when the "Add to Cart" button is clicked.
 async function addToCart(article) {
-  await Qworum.runtime.eval(Script(
+  await Qworum.eval(Script(
     Sequence(
       // Call the shopping cart service
       Call(
