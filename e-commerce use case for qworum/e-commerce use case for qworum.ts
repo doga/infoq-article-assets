@@ -1,8 +1,8 @@
-// /**
-//  *  Placeholder for the Json datatype.
-//  *  @see {@link https://qworum.net/en/specification/v1/#json}
-//  */
-// type JsonValue = string | number | boolean | Array<JsonValue> | {} | null; 
+/**
+ *  Placeholder for the Json datatype.
+ *  @see {@link https://qworum.net/en/specification/v1/#json}
+ */
+type JsonValue = string | number | boolean | Array<JsonValue> | {} | null; 
 
 /** 
  * Interface for a shopping cart service.
