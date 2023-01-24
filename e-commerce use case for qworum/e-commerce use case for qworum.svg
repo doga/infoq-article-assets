@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <ellipse style="stroke: rgb(192, 192, 192); fill: rgb(190, 9, 9);" cx="292.581" cy="98.362" rx="265.065" ry="92.363"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 14.9px; text-anchor: middle; white-space: pre;" transform="matrix(0.756947, 0, 0, 0.756947, 207.621674, -152.888718)"><tspan x="115.185" y="234.175">Qworum - The Service Web</tspan><tspan x="115.18499755859375" dy="1em">​</tspan></text>
+  <g transform="matrix(1.245126, 0, 0, 1.245126, -132.286911, -115.322357)" style="">
+    <rect x="164.793" y="151.105" width="75.36" height="32.455" rx="3" ry="3" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.7px; text-anchor: middle;" x="212.147" y="165.646" transform="matrix(1, 0, 0, 1, -9.674011, 0.32637)">E-shop<tspan x="212.14700317382812" dy="1em">​</tspan>Qworum service</text>
+  </g>
+  <path d="M 307.997 167.287 H 362.366 L 362.366 164.174 L 390.81 168.532 L 362.366 172.89 L 362.366 169.777 H 307.997 V 167.287 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(0.999997, 0.002312, -0.002312, 0.999997, -140.561523, -75.282394)" bx:shape="arrow 307.997 164.174 82.813 8.716 2.49 28.444 0 1@a8ca2bed"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" y="84.843" x="208.395">addItems()</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" y="111.385" x="207.772">showCart()</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" y="85.256" x="376.015">pay()</text>
+  <g transform="matrix(1.245126, 0, 0, 1.245126, 45.053696, -115.322357)" style="">
+    <rect x="164.793" y="151.105" width="75.36" height="32.455" rx="3" ry="3" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.7px; text-anchor: middle;" x="212.147" y="165.646" transform="matrix(1, 0, 0, 1, -9.674011, 0.32637)">Shopping cart<tspan x="212.14700317382812" dy="1em">​</tspan>Qworum service</text>
+  </g>
+  <g transform="matrix(1.245126, 0, 0, 1.245126, 207.076324, -115.322357)" style="">
+    <rect x="164.793" y="151.105" width="79.159" height="32.455" rx="3" ry="3" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.7px; text-anchor: middle;" x="212.147" y="165.646" transform="matrix(1, 0, 0, 1, -8.067749, 0.32637)">Payment processor<tspan x="212.14700317382812" dy="1em">​</tspan>Qworum service</text>
+  </g>
+  <path d="M 256.076 167.287 H 301.28 L 301.28 164.174 L 324.929 168.532 L 301.28 172.89 L 301.28 169.777 H 256.076 V 167.287 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(0.999997, 0.002312, -0.002312, 0.999997, 89.268349, -75.146217)" bx:shape="arrow 256.076 164.174 68.853 8.716 2.49 23.649 0 1@1f86fe78"/>
+</svg>

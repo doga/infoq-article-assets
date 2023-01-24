@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 511 200" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="color-1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.40332, 0, 0, 3.650457, 658.078552, -225.565597)" bx:pinned="true">
+      <stop style="stop-color: rgb(190, 9, 9)"/>
+    </linearGradient>
+    <linearGradient id="color-2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 665.968567, 906.499878)" bx:pinned="true">
+      <stop style="stop-color: rgb(255, 255, 255);"/>
+    </linearGradient>
+    <linearGradient id="color-0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 2.547859, 519.542053, -450.205078)" bx:pinned="true">
+      <stop style="stop-color: #d8d8d8;"/>
+    </linearGradient>
+    <linearGradient id="color-3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -80.795662, -55.218643)" bx:pinned="true">
+      <stop style="stop-color: #d8d8d8;"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.026" y="5.251" width="507.89" height="193.971" rx="3" ry="3" style="stroke: rgb(0, 0, 0); fill: url(#color-1); stroke-width: 0px;"/>
+  <text style="fill: url(#color-2); font-family: Arial, sans-serif; font-size: 11.3px; stroke-width: 2px; text-anchor: middle; white-space: pre;" x="67.827" y="38.137">Web browser</text>
+  <g transform="matrix(1, 0, 0, 1, 0.101616, -63.675369)"/>
+  <rect x="273.076" y="394.145" width="201.108" height="36.804" rx="3" ry="3" style="fill: rgb(255, 255, 255); fill-opacity: 0; stroke: rgb(255, 255, 255);"/>
+  <text style="fill: url(#color-2); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" x="68.974" y="174.012">Web server</text>
+  <line style="fill: url(#color-2); stroke: url(#color-2);" x1="131.059" y1="35.685" x2="448.925" y2="35.485"/>
+  <line style="fill: url(#color-2); stroke: url(#color-2);" x1="133.915" y1="171.415" x2="451.781" y2="171.215"/>
+  <text style="fill: url(#color-2); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" x="182.069" y="140.535"> </text>
+  <g transform="matrix(1, 0, 0, 1, -147.63472, -0.838322)">
+    <path d="M 336.552 165.381 H 456.744 L 456.744 160.381 L 473.357 166.881 L 456.744 173.381 L 456.744 168.381 H 336.552 V 165.381 Z" style="fill: rgb(216, 216, 216); stroke: rgb(136, 126, 126);" transform="matrix(0.243585, -0.96988, 0.96988, 0.243585, 102.619904, 454.857513)" bx:shape="arrow 336.552 160.381 136.805 13 3 16.613 0 1@5d137225"/>
+    <path d="M 338.567 165.381 H 456.743 L 456.743 160.381 L 473.356 166.881 L 456.743 173.381 L 456.743 168.381 H 338.567 V 165.381 Z" style="fill: rgb(216, 216, 216); stroke: rgb(136, 126, 126);" transform="matrix(0.221527, 0.975154, -0.975154, 0.221527, 390.494934, -327.202789)" bx:shape="arrow 338.567 160.381 134.789 13 3 16.613 0 1@90c78bdf"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -59.834572, -1.979681)">
+    <path d="M 336.552 165.381 H 456.744 L 456.744 160.381 L 473.357 166.881 L 456.744 173.381 L 456.744 168.381 H 336.552 V 165.381 Z" style="fill: rgb(216, 216, 216); stroke: rgb(136, 126, 126);" transform="matrix(0.243585, -0.96988, 0.96988, 0.243585, 102.619904, 454.857513)" bx:shape="arrow 336.552 160.381 136.805 13 3 16.613 0 1@5d137225"/>
+    <path d="M 338.567 165.381 H 456.743 L 456.743 160.381 L 473.356 166.881 L 456.743 173.381 L 456.743 168.381 H 338.567 V 165.381 Z" style="fill: rgb(216, 216, 216); stroke: rgb(136, 126, 126);" transform="matrix(0.221527, 0.975154, -0.975154, 0.221527, 390.494934, -327.202789)" bx:shape="arrow 338.567 160.381 134.789 13 3 16.613 0 1@90c78bdf"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 26.579227, -2.636586)">
+    <path d="M 336.552 165.381 H 456.744 L 456.744 160.381 L 473.357 166.881 L 456.744 173.381 L 456.744 168.381 H 336.552 V 165.381 Z" style="fill: rgb(216, 216, 216); stroke: rgb(136, 126, 126);" transform="matrix(0.243585, -0.96988, 0.96988, 0.243585, 102.619904, 454.857513)" bx:shape="arrow 336.552 160.381 136.805 13 3 16.613 0 1@5d137225"/>
+    <path d="M 338.567 165.381 H 456.743 L 456.743 160.381 L 473.356 166.881 L 456.743 173.381 L 456.743 168.381 H 338.567 V 165.381 Z" style="fill: rgb(216, 216, 216); stroke: rgb(136, 126, 126);" transform="matrix(0.221527, 0.975154, -0.975154, 0.221527, 390.494934, -327.202789)" bx:shape="arrow 338.567 160.381 134.789 13 3 16.613 0 1@90c78bdf"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0.755294, 1.125257)">
+    <rect x="130.859" y="84.492" width="62.47" height="28.364" rx="3" ry="3" style="stroke: rgb(136, 126, 126); fill: rgb(145, 145, 145);"/>
+    <text style="fill: url(#color-2); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" x="113.192" y="96.01" transform="matrix(1, 0, 0, 1, 47.860249, 0.453402)">Call with <tspan x="113.19200134277344" dy="1em">​</tspan>arguments</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -20.774721, -28.412334)">
+    <rect x="390.802" y="115.264" width="62.47" height="28.364" rx="3" ry="3" style="stroke: rgb(136, 126, 126); fill: rgb(145, 145, 145);"/>
+    <text style="fill: url(#color-2); font-family: Arial, sans-serif; font-size: 11.3px; text-anchor: middle; white-space: pre;" x="421.33" y="133.095">Call result</text>
+  </g>
+</svg>
