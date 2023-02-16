@@ -9,7 +9,7 @@ async function addToCart(article) {
         ['@', 'shopping cart'], 'https://cart.example/add-items/',
         [{
           name: 'line items to add',
-          value: Json([{
+          value: JsonValue([{
             id   : article.id,
             title: article.data.title,
             price: article.data.price,
@@ -21,4 +21,5 @@ async function addToCart(article) {
     )
   ));
 }
+
 

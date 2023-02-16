@@ -51,11 +51,29 @@ interface ICollaborationSoftware { /* ... */ }
  * Interface for a project management service. Application available at the `home` end-point.
  */
 interface IProjectManager {
-  projects             : JsonValue;               // Metadata about the projects that the end-user is involved in. 
+  /** 
+   * Metadata about the projects that the end-user is involved in. 
+   * @private
+   */
+  projects: JsonValue;
 
-  hr                   : IHumanResources;         // Remote service for adding employees to the project.
-  rooms                : IRooms;                  // Remote service for booking physical rooms.
-  collaborationSoftware: ICollaborationSoftware;  // Remote online collaboration service.
+  /** 
+   * Remote service for adding employees to the project.
+   * @private
+   */
+  hr: IHumanResources;
+
+  /** 
+   * Remote service for booking physical rooms.
+   * @private
+   */
+  rooms: IRooms;
+
+  /** 
+   * Remote online collaboration service.
+   * @private
+   */
+  collaborationSoftware: ICollaborationSoftware;
 
   /**
    * Main interactive end-point. Never returns.
