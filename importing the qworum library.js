@@ -15,6 +15,3 @@ Try      = Qworum.Try,
 // Script builder
 Script = Qworum.Script;
 
-
-
-Script(Sequence(Try(Return(Call(Goto(JsonValue(SemanticData(Fault(Data())))))))))
